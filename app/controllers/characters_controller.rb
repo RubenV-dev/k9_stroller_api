@@ -16,6 +16,8 @@ class CharactersController < ApplicationController
         render json: @character.scores
     end
 
+    
+
     private
 
     def score_params
