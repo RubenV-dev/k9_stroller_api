@@ -1,24 +1,24 @@
-# README
+K9 Stroller Maze Game (BackEnd)
+This application is a javascript maze game  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Features
+Ruby the Rails
 
-Things you may want to cover:
+DEMO
 
-* Ruby version
+https://youtu.be/YYJeTjUx9Og
 
-* System dependencies
+Technologies
+Ruby
 
-* Configuration
+Installation
+To view locally, follow the instructions below
 
-* Database creation
+Clone repository
+bundle install
+rails s
 
-* Database initialization
+Server needs to run on http://localhost:3000
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Go to Frontend repository to view FrontEnd installation: [View FrontEnd}(https://github.com/Genegrady/k9-stroller-js-app)
+Built By: [Eugene Grady](https://github.com/Genegrady) and [Ruben Vallejo](https://github.com/RubenV-dev)
